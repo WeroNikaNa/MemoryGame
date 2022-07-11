@@ -1,0 +1,30 @@
+.App {
+  max-width: 860px;
+  margin: 40px auto;
+}
+button {
+  background: none;
+  border: 2px solid #fff;
+  padding: 6px 12px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 1em;
+}
+button:hover {
+  background: #006798;
+  color: #fff;
+}
+
+.winner {
+  background-color: #006e0b;
+  z-index: 10;
+  margin-top: 49px;
+  position: absolute;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100%;
+}
+
+
